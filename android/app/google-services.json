@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933277987097",
+    "project_id": "map-app-kltn",
+    "storage_bucket": "map-app-kltn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933277987097:android:f4e27df435b0bfa5611588",
+        "android_client_info": {
+          "package_name": "com.example.map_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWl89SBOrOJ54drfC1hCHIAEEUpkFceUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
